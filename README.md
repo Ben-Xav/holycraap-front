@@ -6,7 +6,7 @@ FRONTEND In search of the one and only Holy Craap - a treasure also known as "Bi
 - [npm](https://www.npmjs.com/get-npm)
 - ensure you have npx, by typing 
 ```sh
-npm install -g npx
+npm install npx
 ```
 
 ## Installation
