@@ -3,11 +3,8 @@ FRONTEND In search of the one and only Holy Craap - a treasure also known as "Bi
 
 ## Prerequisite
 
+- [NodeJS](https://nodejs.org)
 - [npm](https://www.npmjs.com/get-npm)
-- ensure you have npx, by typing 
-```sh
-npm install npx
-```
 
 ## Installation
 
@@ -18,10 +15,4 @@ npm start
 
 ## Usage
 
-The app should be running at :
-
-http://localhost:3000/
-
-
-
-
+The app should be running at http://localhost:3000/ .
