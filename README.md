@@ -19,4 +19,11 @@ npm start
 
 ## Usage
 
-The app should be running at <http://localhost:3000/> .
+The app should be running at http://localhost:3000/ .
+
+## Tests
+
+Tests can run by typing
+```sh
+npm run test
+```
